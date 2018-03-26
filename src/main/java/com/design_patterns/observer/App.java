@@ -1,6 +1,6 @@
 package com.design_patterns.observer;
 
-// Test comment
+// Test comment!
 
 public class App {
 
