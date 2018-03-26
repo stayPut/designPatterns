@@ -1,5 +1,7 @@
 package com.design_patterns.observer;
 
+// Test comment
+
 public class App {
 
     public static void main(String... strings) {
